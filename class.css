@@ -1,0 +1,102 @@
+.check{
+    width:68%;
+    float: left;
+    padding: 10px;
+    margin-top: 20px;
+}
+.shed{
+    background-color:whitesmoke;
+    padding: 45px;
+}
+.shed h1{
+    padding: 150px 20px;
+    background-color:gray;
+    padding-top: 10px;
+}
+.macks{
+    background-color:whitesmoke;
+    margin-top: 20px;
+    padding: 50px;
+}
+.macks h1{
+    padding:150px 20px ;
+    background-color: gray;
+    padding-top: 10px;
+}
+.cleard{
+    clear: right;
+}
+.navbar{
+    background-color: black;
+    padding: 10px 20px;
+    height: 25px;
+    margin-bottom: 15px;
+    position: sticky;
+    top: 0px;
+    color:white;
+}
+.navbar a:hover{
+    background-color: whitesmoke;
+    color:black;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding-right: 10px;
+    padding-left: 10px;
+    
+}
+.calm{
+    float: right;
+}
+.pick{
+    clear: both;
+}
+.main{
+    background-color:white;
+    float: right;
+    margin-top: 31px;
+    width: 30%;
+}
+.slop{
+    padding: 20px;
+    background-color:whitesmoke;
+    
+}
+.slop h1{
+    background-color: gray;
+    padding: 120px 20px;
+    padding-top: 10px;
+}
+.close {
+    height: 300px;
+    padding: 20px ;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    padding-top: 20px;
+}
+.lake{
+    padding: 30px;
+    background-color: whitesmoke;
+    margin-top: 20px;
+}
+.big{
+    background-color: gray;
+    padding: 70px 20px;  
+    height: 180px;
+    padding-top: 10px;
+    margin-top: 15px;
+}
+.big p{
+    margin:50px;
+    margin-top: 10px;
+    margin-bottom: 70px;
+    margin-left: 10px;
+}
+.form-control{
+    margin-top: 20px;
+    height: 50px;
+    background-color: gray;
+    padding: 30px 0px;
+    text-align: center;
+}  
