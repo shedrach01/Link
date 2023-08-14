@@ -3,7 +3,7 @@
 This project shows how to diplay a link in a navbar.
 
 
-![simple](./image/image.png)
+![sample](./image/image.png)
 # Background 
 
 - CSS
